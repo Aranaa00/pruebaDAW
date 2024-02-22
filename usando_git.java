@@ -3,5 +3,6 @@ public class usando_git{
 		System.out.println("Proyecto con GIT");
 		System.out.println("Modificacion a la clase");
 		System.out.println("gags");
+		System.out.println("Hola");
 	}
 }
